@@ -1,0 +1,5 @@
+For new version nandroid studio
+need to add:
+        maven { url "https://jitpack.io" }
+
+http://stackoverflow.com/questions/32718820/failed-to-resolve-com-github-philjaympandroidchartv2-1-4
